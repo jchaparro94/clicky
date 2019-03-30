@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Iron-Man",
+        "image": "https://static1.squarespace.com/static/583c906ebe659429d1106265/t/5935941859cc687293cd3f6b/1496683572683/"
+      },
+      {
+        "id": 2,
+        "name": "Thor",
+        "image": "https://wallpapers-house.com/data/out/12/wallpaper2you_567961.jpg"
+      },
+      {
+        "id": 3,
+        "name": "The Incredible Hulk",
+        "image": "https://www.thechosenprime.com/assets/images/bandai/sh%20figuarts/ragnarok%20hulk/shf-ragnarok-hulk-01.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Captain America",
+        "image": "https://boygeniusreport.files.wordpress.com/2014/04/captain-america.jpg?quality=98&strip=all"
+      }, 
+      {
+        "id": 5,
+        "name": "Thanos",
+        "image": "https://www.sideshow.com/product-asset/903429/feature"
+      },
+      {
+        "id": 6,
+        "name": "Star-Lord",
+        "image": "https://nypdecider.files.wordpress.com/2018/08/star-lord-infinity-war.jpg?quality=90&strip=all&w=646&h=431&crop=1"
+      },
+      {
+        "id": 7,
+        "name": "Loki",
+        "image": "https://consequenceofsound.files.wordpress.com/2019/02/screen-shot-2019-02-16-at-1.33.52-pm-e1550345706913.png?w=807"
+      },
+      {
+        "id": 8,
+        "name": "Killmonger",
+        "image": "https://cdn3.movieweb.com/i/article/r1PCH1DJeWqtx6PlcvXr63WDdjBscg/798:50/Black-Panther-2-Michael-B-Jordan-Killmonger.jpg"
+      },  
+      {
+        "id": 9,
+        "name": "Rocket",
+        "image": "https://vignette.wikia.nocookie.net/animated-video-games-muscular/images/3/35/Rocket_Poster.png/revision/latest?cb=20170221093149"
+      },
+      {
+        "id": 10,
+        "name": "Spider-Man",
+        "image": "https://i.pinimg.com/originals/df/3f/ba/df3fba66934f8c3c8e65dd13549ec6b6.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Black Panther",
+        "image": "https://amp.businessinsider.com/images/55cb9c58dd0895f5048b45b9-750-562.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Hawk Eye",
+        "image": "https://static3.srcdn.com/wordpress/wp-content/uploads/2017/03/Hawkeye-and-Ant-Man-Civil-War-Art.jpg"
+      } 
+]
